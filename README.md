@@ -1,6 +1,12 @@
 # kong-compose
 about kong
 
-## Kong
+### Kong
 
-## Konga
+### Konga
+
+### Kong - db
+
+### Kong - migration
+
+### Kong - prepare db
