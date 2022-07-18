@@ -1,5 +1,4 @@
 # kong-compose
-about kong
 
 ### Kong
 
